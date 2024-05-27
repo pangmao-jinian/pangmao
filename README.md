@@ -6,10 +6,9 @@
 
 - youtube: 全纪录 [https://youtu.be/VoXTHY6V4Hs](https://youtu.be/VoXTHY6V4Hs)
 - bilibili: 全纪录 [https://www.bilibili.com/video/BV12i421m7D8/](https://www.bilibili.com/video/BV12i421m7D8/)
+- youtube: [胖猫谭竹聊天转账记录](https://youtu.be/_NocjlL9osQ)
+- bilibili: [胖猫谭竹聊天转账记录](https://www.bilibili.com/video/BV1ar421w7fH/)
 - bilibili: [【胖猫妹妹发自己跟哥哥胖猫的聊天记录：哥我好想你，哥给你买了最爱的东鹏，哥如果还有重来我一定不让你去重庆-哔哩哔哩】](https://b23.tv/pLkrW9X)
 - bilibili: [【《胖猫别哭泣》游戏里的通天代，感情里面的尘埃！-哔哩哔哩】](https://b23.tv/HXC8oZ3)
 
-## todos
 
-- [ ] 收集所有相关的材料，包括导致导致胖猫死亡的谭某的罪证
-- [ ] 将所有内容部署到pangmao.html5beta.com
